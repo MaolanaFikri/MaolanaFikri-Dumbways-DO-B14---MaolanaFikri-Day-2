@@ -100,15 +100,26 @@ jalankan perintah npm run start di direktori wayshub, maka hasilnya akan seperti
 
 ![Screenshot from 2022-11-19 08-38-15](https://user-images.githubusercontent.com/118157585/202828069-7131e7c6-42d1-484c-b91f-9207cb951d7b.png)
 
+nah setelah itu, maka kita akan di direct ke wesite si wayshub sendiri
 
-
+![Screenshot from 2022-11-19 08-16-19](https://user-images.githubusercontent.com/118157585/202828704-0164869c-0c5e-4e4b-b66f-4cc74779a810.png)
 
 lalu kita install pm2 seperti dibawah
 
 ![Screenshot from 2022-11-19 08-36-37](https://user-images.githubusercontent.com/118157585/202828067-70109258-9c7b-4742-894b-8023d8803f6b.png)
 
+kita install localtunnel
 
-![Screenshot from 2022-11-19 08-33-02](https://user-images.githubusercontent.com/118157585/202828056-99ed3eea-6d0c-4cbf-a86c-30e18b99b3f3.png)
-![Screenshot from 2022-11-19 08-35-31](https://user-images.githubusercontent.com/118157585/202828062-09995302-53a5-4008-b5dd-50adebae44f6.png)
 ![Screenshot from 2022-11-19 08-35-53](https://user-images.githubusercontent.com/118157585/202828066-5619bcc9-a9ea-4b09-a18d-490a7a75c2eb.png)
+
+lalu kita start dan daemon sebuah app seperti gambar dibawah
+
+![Screenshot from 2022-11-19 08-35-31](https://user-images.githubusercontent.com/118157585/202828062-09995302-53a5-4008-b5dd-50adebae44f6.png)
+
+kita masukan perintah seperti ini  lt --port 3000, lalu kita copy link yg dibawah
+
+![Screenshot from 2022-11-19 08-35-53](https://user-images.githubusercontent.com/118157585/202828066-5619bcc9-a9ea-4b09-a18d-490a7a75c2eb.png)
+
+taraaaaaa,ini sudahhh muncul
+![Screenshot from 2022-11-19 08-33-02](https://user-images.githubusercontent.com/118157585/202828056-99ed3eea-6d0c-4cbf-a86c-30e18b99b3f3.png)
 
