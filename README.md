@@ -71,6 +71,18 @@ lalu kita install express dengan perintah seperti digambar, express sendiri meru
 
 ![Screenshot from 2022-11-18 07-20-20](https://user-images.githubusercontent.com/118157585/202595526-3e6abd4c-1b5d-4f97-a438-e8f8f7e32275.png)
 
+kita masuk ke editor index.js 
+
 ![Screenshot from 2022-11-18 07-20-58](https://user-images.githubusercontent.com/118157585/202595527-6abb6e79-295a-4779-b2d4-1be85e76654f.png)
+
+lalu masukan perintah seperti gambar dibawah ini
+
+![Screenshot from 2022-11-19 07-31-29](https://user-images.githubusercontent.com/118157585/202824448-3df7d8a5-4301-48ec-a79b-68ff45ac185a.png)
+
+lalu kita jalankan index.js tadi yg telah kita edit dengan perintah node index.js, maka akan muncul tampilan port dibawahnya
+
+![Screenshot from 2022-11-18 07-20-58](https://user-images.githubusercontent.com/118157585/202595527-6abb6e79-295a-4779-b2d4-1be85e76654f.png)
+
+sekarang kita buka dengan browser, dengan ketik perintah localhost:9000, dan tarraaaaaa 
 ![Screenshot from 2022-11-18 07-21-08](https://user-images.githubusercontent.com/118157585/202595529-3df6122d-69db-4c9b-841e-515224824a35.png)
 
