@@ -1,4 +1,15 @@
 # MaolanaFikri-Dumbways-DO-B14---MaolanaFikri-Day-2
+
+
+1. - Monolitik merupakan sebuah pendekatan tradisional dalam pembangunan sebuah aplikasi. Aplikasi monolitik terbentuk sebagai satu kesatuan kode yang tidak dapat dipisahkan satu dan lainnya.
+
+  -Microservices merupakan sebuah pendekatan tradisional dalam pembangunan sebuah aplikasi. Microservices terbagi menjadi unit pecahan yang lebih kecil dan spesifik. Setiap unitnya terpisah dan memiliki sistem beserta database sendiri untuk beroperasi dan menggunakan mekanisme API untuk terhubung dengan unit lainnya.
+  
+
+
+
+
+===========================================================================================================
 The first kita bikin direktori untuk python dulu, aku bikin "belajarpython".
 Lalu masuk ke direktori "belajarpython"
 lalu kita install python nya
