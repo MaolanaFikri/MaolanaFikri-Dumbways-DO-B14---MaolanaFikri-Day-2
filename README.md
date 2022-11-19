@@ -84,5 +84,12 @@ lalu kita jalankan index.js tadi yg telah kita edit dengan perintah node index.j
 ![Screenshot from 2022-11-18 07-20-58](https://user-images.githubusercontent.com/118157585/202595527-6abb6e79-295a-4779-b2d4-1be85e76654f.png)
 
 sekarang kita buka dengan browser, dengan ketik perintah localhost:9000, dan tarraaaaaa 
+
 ![Screenshot from 2022-11-18 07-21-08](https://user-images.githubusercontent.com/118157585/202595529-3df6122d-69db-4c9b-841e-515224824a35.png)
+
+![Screenshot from 2022-11-19 08-33-02](https://user-images.githubusercontent.com/118157585/202828056-99ed3eea-6d0c-4cbf-a86c-30e18b99b3f3.png)
+![Screenshot from 2022-11-19 08-35-31](https://user-images.githubusercontent.com/118157585/202828062-09995302-53a5-4008-b5dd-50adebae44f6.png)
+![Screenshot from 2022-11-19 08-35-53](https://user-images.githubusercontent.com/118157585/202828066-5619bcc9-a9ea-4b09-a18d-490a7a75c2eb.png)
+![Screenshot from 2022-11-19 08-36-37](https://user-images.githubusercontent.com/118157585/202828067-70109258-9c7b-4742-894b-8023d8803f6b.png)
+![Screenshot from 2022-11-19 08-38-15](https://user-images.githubusercontent.com/118157585/202828069-7131e7c6-42d1-484c-b91f-9207cb951d7b.png)
 
