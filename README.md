@@ -59,6 +59,17 @@ berhubung aku udh install, jadi aku lgsg bikin saja direktori nodejs dan langsun
 
 ![Screenshot from 2022-11-18 07-20-20](https://user-images.githubusercontent.com/118157585/202595526-3e6abd4c-1b5d-4f97-a438-e8f8f7e32275.png)
 
+cek apakah nvm ku udh terdeteksi atau belum
+
+![Screenshot from 2022-11-19 07-22-53](https://user-images.githubusercontent.com/118157585/202823919-335c6129-2836-469c-b5b8-8fbf8105b3cb.png)
+
+lalu aku cek versi yang sedang aku pakai.
+
+lalu aku init, yaitu untuk mengiaiasi project kita
+
+lalu kita install express dengan perintah seperti digambar, express sendiri merupakan framework js
+
+![Screenshot from 2022-11-18 07-20-20](https://user-images.githubusercontent.com/118157585/202595526-3e6abd4c-1b5d-4f97-a438-e8f8f7e32275.png)
 
 ![Screenshot from 2022-11-18 07-20-58](https://user-images.githubusercontent.com/118157585/202595527-6abb6e79-295a-4779-b2d4-1be85e76654f.png)
 ![Screenshot from 2022-11-18 07-21-08](https://user-images.githubusercontent.com/118157585/202595529-3df6122d-69db-4c9b-841e-515224824a35.png)
