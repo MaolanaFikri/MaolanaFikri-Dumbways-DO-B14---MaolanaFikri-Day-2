@@ -123,3 +123,6 @@ kita masukan perintah seperti ini  lt --port 3000, lalu kita copy link yg dibawa
 taraaaaaa,ini sudahhh muncul
 ![Screenshot from 2022-11-19 08-33-02](https://user-images.githubusercontent.com/118157585/202828056-99ed3eea-6d0c-4cbf-a86c-30e18b99b3f3.png)
 
+ini sudah bisa diakses melalui handphone saya sendiri
+
+![photo_2022-11-19_08-59-48](https://user-images.githubusercontent.com/118157585/202829135-3d277452-ca7a-40d2-b181-28ca3b087b17.jpg)
